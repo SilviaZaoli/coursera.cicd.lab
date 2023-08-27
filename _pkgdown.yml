@@ -1,4 +1,4 @@
-url: https://silvia.zaoli.com.github.io/coursera.cicd.lab
+url: https://SilviaZaoli.github.io/coursera.cicd.lab
 
 template:
   bootstrap: 5
@@ -17,4 +17,8 @@ template:
 navbar:
   right:
     - icon: fa-github
+<<<<<<< HEAD
       href: https://github.com/silvia.zaoli.com/coursera.cicd.lab
+=======
+      href: https://github.com/SilviaZaoli/coursera.cicd.lab
+>>>>>>> Initialize repo
